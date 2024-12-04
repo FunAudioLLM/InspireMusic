@@ -34,7 +34,7 @@ requirements = {
 		"HyperPyYAML==1.2.2",
 		"inflect==7.3.1",
 		"librosa==0.10.2",
-		"lightning==2.2.4",
+		"lightning==2.3.3",
 		"matplotlib==3.7.5",
 		"modelscope==1.15.0",
 		"networkx==3.1",
