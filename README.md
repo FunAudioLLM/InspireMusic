@@ -70,7 +70,7 @@ InspireMusic is a fundamental AIGC toolkit designed for music, song, and audio g
 **InspireMusic** focuses on music generation, song generation and audio generation.
 - A unified framework for music/song/audio generation.
 - Controllable with text prompts, music genres, music structures, etc.
-- Convenient Fine-tuning and Inference: Provide convenient fine-tuning and inference scripts and strategies, allowing users to easily their music generation models.
+- Convenient Fine-tuning and Inference: Provide convenient fine-tuning and inference scripts and strategies, allowing users to easily fine-tune their music generation models.
 - Support text-to-music, music continuation tasks with high audio quality.
 
 <a name="What's News"></a>
