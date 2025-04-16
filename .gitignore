@@ -170,3 +170,12 @@ cython_debug/
 #InspireMusic
 exp/
 pretrained_models/
+
+# Gradio
+.gradio/
+pretrained_models/
+
+# Gradio outputs
+demo/outputs/
+demo/audio_prompts/
+demo/outputs/
