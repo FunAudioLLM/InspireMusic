@@ -137,6 +137,14 @@ cd InspireMusic/examples/music_generation/
 sh run.sh
 ```
 
+### GUI Inference
+
+Use a gradio-based webUI to generate text-to-music or music continuation
+```shell
+cd examples/music_generation
+python webui.py
+```
+
 ### One-line Inference
 #### Text-to-music Task
 One-line Shell script for text-to-music task.
